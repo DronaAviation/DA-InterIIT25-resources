@@ -19,4 +19,8 @@ This directory includes all written documents related to the challenge:
 This directory contains:
 - Magisk firmware ZIP required for the challenge  
 
+### 4. Datasheet/
+
+This directory provides hardware reference material for the sensors used in the challenge
+
 ---
