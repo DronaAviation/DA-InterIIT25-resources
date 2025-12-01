@@ -29,4 +29,6 @@ This directory provides hardware reference material for the sensors used in the 
 
 For detailed API documentation and programming reference, visit: [MagisV2 Wiki](https://github.com/DronaAviation/MagisV2/wiki)
 
+For Optical Flow and Time-of-Flight API reference, refer to the Case Study markdown file in the Documentation/ directory.
+
 ---
