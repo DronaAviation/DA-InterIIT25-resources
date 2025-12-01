@@ -24,3 +24,9 @@ This directory contains:
 This directory provides hardware reference material for the sensors used in the challenge
 
 ---
+
+## API Reference
+
+For detailed API documentation and programming reference, visit: [MagisV2 Wiki](https://github.com/DronaAviation/MagisV2/wiki)
+
+---
