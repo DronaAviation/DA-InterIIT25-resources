@@ -7,6 +7,7 @@ Welcome to the Low Prep Drone Challenge at the Inter IIT Tech Meet, powered by D
 ### 1. Getting-Started/
 This directory contains all setup and onboarding resources, including:
 - Installation video for the Pluto IDE extension  
+- Pluto IDE extension ZIP file (Password: DRONA)
 - Guides on extracting the firmware ZIP  
 
 ### 2. Documentation/
